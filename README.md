@@ -1,4 +1,3 @@
-# skylab
-Clone pagina inicial do skylab da rocketseat com Node, nextjs, react, chakra-ui theme
+# NEXT js SERVERLESS
 
-Experimento para conhecer a biblioteca do tema chakra-ui e criação de componentes
+Experimento para conhecer as funções serverless do NEXT.js
